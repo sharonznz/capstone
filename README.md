@@ -3,6 +3,10 @@ Capstone project for Udacity Machine Learning Engineer Degree
 
 Files: 
 
+Capstone project report.pdf - main report.
+
+proposal.pdf - accepted project proposal.
+
 download_as_text_files.ipynb: Scrapes press releases from political party websites and saves in working directory (You may need to manually create 6 subdirectories called act green national nzfirst maori labour respectively). The releases are always being updated (the election is this weekend), so the file will not give exactly the dataset I used, but there should be a large degree of crossover if run relatively soon.
 
 Preprocess_fit.ipynb: Reads in the resulting text files and preprocesses them ready for Scikit-learn. Fits and then optimises a Naive Bayes model.
